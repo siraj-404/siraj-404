@@ -23,8 +23,8 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student at **Isl
 - Building Cross-Device Note-Taking Apps
 
 ## 📞 Let’s Connect!
-- **Email:** sirajuddin.dev@gmail.com
-- **LinkedIn:** [Siraj Uddin](#) *(https://www.linkedin.com/in/me-siraj?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)*
+- **Email:** siraj733355@gmail.com
+- **LinkedIn:** [Siraj Uddin](https://www.linkedin.com/in/me-siraj)
 
 ---
 
